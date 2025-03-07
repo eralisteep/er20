@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@remix-run/node": "^2.16.0"
+  }
+}
